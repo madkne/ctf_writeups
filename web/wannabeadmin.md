@@ -156,6 +156,8 @@ In final, I found the flag:
 
 ## author
 
-madkne in 2023.05.07
+- name: TaparCTF 2
 
-website: http://taparctf.ir/
+- written by: madkne in 2023.05.07
+
+- website: http://taparctf.ir/
